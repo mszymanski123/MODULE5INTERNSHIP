@@ -1,0 +1,4 @@
+This is a sample input file.
+It contains some text that we will process.
+The script will perform various operations on this text.
+
